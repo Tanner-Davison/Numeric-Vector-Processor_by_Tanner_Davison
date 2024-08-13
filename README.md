@@ -1,4 +1,4 @@
-## Project Name: **Numeric-Vector-Processor**
+## **Numeric-Vector-Processor**
 by: Tanner Davison 
 ### Description
 **Vector-Math-Utility** is a C++ project focused on performing various mathematical operations on vectors of numerical data. The project includes functions for adding two vectors element-wise, calculating the percentage of each element relative to the maximum value in the vector, and reading and displaying vector contents.
